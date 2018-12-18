@@ -2,6 +2,7 @@
 
 #### Description
 一个使用lint和browsersync的前端脚手架，可以用来做前端练习的起始代码。
+而且是一个持续集成的示例
 
 #### Software Architecture
 Software architecture description
