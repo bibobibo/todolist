@@ -12,6 +12,7 @@
     "gulp-csslint": "^1.0.1"
   },
   "scripts": {
+    "lint": "echo lint is not done",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp browser-sync"
   },
