@@ -7,3 +7,5 @@ script:
 deploy:
   provider: heroku
   app: todolist-in-zybank
+api_key:
+  secure: b46502bb-f30f-4986-9fb3-1e33b1e3c123
